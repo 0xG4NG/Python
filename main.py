@@ -7,3 +7,4 @@ ip_address = re.findall(pattern, text)
 
 for i in ip_address:
     print(i)
+
